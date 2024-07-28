@@ -1,9 +1,11 @@
 <h1>Flight-Booking-App-React-Redux</h1>
 The Flight-Booking-App-React-Redux uses Redux is useful for managing data like booking information that needs to be accessed and updated by various components.
-#Features#
-Responsive Design: Optimized for various devices including Desktops and mobile phones.
-User-Friendly Navigation: Easy to access to different sections such as view, edit, or cancel booking.
-Real-Time Availability Check:Integrate real-time availability checks for destinations, dates, and classes.
+<h1>>Features</h1>
+
+- **Responsive Design:** Optimized for various devices including desktops and mobile phones, ensuring a seamless experience across all screen sizes.
+- **User-Friendly Navigation:** Easy access to different sections such as view, edit, or cancel booking, enhancing the overall usability.
+- **Real-Time Availability Check:** Integrates real-time availability checks for destinations, dates, and classes to ensure accurate booking information.
+
 
 
 # React + Vite
