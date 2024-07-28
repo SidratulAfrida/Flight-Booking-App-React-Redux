@@ -1,5 +1,5 @@
-
-The <h1>Flight-Booking-App-React-Redux</h1> uses Redux is useful for managing data like booking information that needs to be accessed and updated by various components.
+<h1>Flight-Booking-App-React-Redux</h1>
+The Flight-Booking-App-React-Redux uses Redux is useful for managing data like booking information that needs to be accessed and updated by various components.
 #Features#
 Responsive Design: Optimized for various devices including Desktops and mobile phones.
 User-Friendly Navigation: Easy to access to different sections such as view, edit, or cancel booking.
