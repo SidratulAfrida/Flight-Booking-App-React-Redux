@@ -22,6 +22,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 -  ## Screenshots
--  https://github.com/SidratulAfrida/Flight-Booking-App-React-Redux/blob/b32a256c1f3d3f80b6fed791760df693fc14479f/images/1.png
--  https://github.com/SidratulAfrida/Flight-Booking-App-React-Redux/blob/e06b96be87f6ee10be2791774a266906978ddf27/images/2.png
+ ![Alt Text](https://github.com/SidratulAfrida/Flight-Booking-App-React-Redux/blob/e06b96be87f6ee10be2791774a266906978ddf27/images/1.png)
+  ![Alt Text](https://github.com/SidratulAfrida/Flight-Booking-App-React-Redux/blob/e06b96be87f6ee10be2791774a266906978ddf27/images/2.png)
+  
   
