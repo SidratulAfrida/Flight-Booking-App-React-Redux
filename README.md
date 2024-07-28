@@ -23,6 +23,8 @@ Currently, two official plugins are available:
 
 -  ## Screenshots
  ![Alt Text](https://github.com/SidratulAfrida/Flight-Booking-App-React-Redux/blob/e06b96be87f6ee10be2791774a266906978ddf27/images/1.png)
-  ![Alt Text](https://github.com/SidratulAfrida/Flight-Booking-App-React-Redux/blob/e06b96be87f6ee10be2791774a266906978ddf27/images/2.png)
+ ![Alt Text](https://github.com/SidratulAfrida/Flight-Booking-App-React-Redux/blob/e06b96be87f6ee10be2791774a266906978ddf27/images/2.png)
+ ![Alt Text]( https://github.com/SidratulAfrida/Flight-Booking-App-React-Redux/blob/4a303667c1828798ecf17b74203daeec5fda197e/images/3.png)
+ 
   
   
