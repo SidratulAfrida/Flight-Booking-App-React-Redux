@@ -11,7 +11,9 @@ The Flight-Booking-App-React-Redux uses Redux is useful for managing data like b
 - **Redux:** A predictable state container for JavaScript apps.
 - **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
 - **React Icons:** A popular icon library for React projects.
-  
+ <h1>Resources & Credits</h1> 
+ - [@vitejs/plugin-react](https://tailwindcss.com/docs/installation)
+ 
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
