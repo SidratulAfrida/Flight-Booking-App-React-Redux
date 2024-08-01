@@ -12,7 +12,7 @@ The Flight-Booking-App-React-Redux uses Redux is useful for managing data like b
 - **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
 - **React Icons:** A popular icon library for React projects.
  <h1>Resources & Credits</h1> 
- -(https://tailwindcss.com/docs/installation)
+ -https://tailwindcss.com/docs/installation
  
 # React + Vite
 
